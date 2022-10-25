@@ -1,0 +1,19 @@
+<resources>
+    <string name="file_name">Notes.json</string>
+    <string name="app_name">Android Notes</string>
+    <string name="remove_from_top">Remove from Top</string>
+    <string name="remove_from_end">Remove from end</string>
+    <string name="add_at_top">Add at Top</string>
+    <string name="add_at_end">Add at End</string>
+    <string name="date_time">Date Time</string>
+    <string name="add">Add</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="u00a9_2022_mathiew_doyle">© 2022 Mathiew Doyle</string>
+    <string name="save">Save</string>
+    <string name="info_activity">info_activity</string>
+    <string name="save_button">Save Button</string>
+    <string name="save_note">Save Note</string>
+    <string name="info">info</string>
+    <string name="note_title">Note title:</string>
+    <string name="note">Note Saved</string>
+</resources>
